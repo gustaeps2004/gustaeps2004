@@ -1,16 +1,23 @@
-### Hi there 👋
+<img src="git.gif" width="300px" align="right">
 
-<!--
-**gustaeps2004/gustaeps2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 😜 Olá! Eu sou o  Gustavo Do Espirito Santo 😜
+ ### Sou desenvolvedor back-end! 
+ 
+- Estudando ASP.NET
+- Fã de tecnologia
+- Sempre aprendendo algo novo
 
-Here are some ideas to get you started:
+<div>
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div>
+<a href="https://www.linkedin.com/in/gustavo-do-espirito-santo-52b8601b3/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://www.instagram.com/gustaeps">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+</a>
+
