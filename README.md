@@ -26,7 +26,7 @@
  <div align="center">
   <br>
   <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gustaeps2004&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true"/>
+    <img height="180rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gustaeps2004&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true"/>
   </a>
   <a href="#">
     <img height="150rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustaeps2004&langs_count=6&layout=compact&theme=radical&bg_color=0d1117&hide_border=true"/>
