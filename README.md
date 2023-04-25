@@ -21,7 +21,7 @@
 <a href="https://www.instagram.com/gustaeps">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
- 
+ </div>
  <div align="center">
   <br>
   <a href="#">
