@@ -20,4 +20,15 @@
 <a href="https://www.instagram.com/gustaeps">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
+ 
+ <div align="center">
+  <br>
+  <a href="#">
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gustaeps2004&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true"/>
+  </a>
+  <a href="#">
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustaeps2004&langs_count=6&layout=compact&theme=radical&bg_color=0d1117&hide_border=true"/>
+  </a>
+  
+</div> 
 
