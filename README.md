@@ -31,4 +31,6 @@
   </a>
   
 </div> 
+ 
+ ![Snake animation](https://github.com/gustaeps2004/NicolasPorto/blob/output/github-contribution-grid-snake.svg)
 
