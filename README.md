@@ -1,12 +1,7 @@
 <img src="git.gif" width="300px" align="right">
 
-## 😜 Olá! Eu sou o  Gustavo Do Espirito Santo 😜
- ### Sou desenvolvedor back-end! 
- 
-- Estudando ASP.NET
-- Fã de tecnologia
-- Sempre aprendendo algo novo
-
+## I'm Gustavo Do Espirito Santo, I'm a developer from Brazil!
+ ### Back-end developer 👽
 <div>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img  align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
