@@ -1,6 +1,6 @@
 <img src="git.gif" width="300px" align="right">
 
-###      I'm Gustavo Do Espirito Santo, I'm a developer from Brazil!
+###      I'm Gustavo Do Espirito Santo, developer from Brazil!
  ### Back-end developer 👽
 <div>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
