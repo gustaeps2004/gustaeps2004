@@ -32,6 +32,3 @@
   </a>
   
 </div> 
- 
- ![Snake animation](https://github.com/gustaeps2004/gustaeps2004/blob/output/github-contribution-grid-snake.svg)
-
