@@ -79,17 +79,6 @@
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=gustaeps2004&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=gustaeps2004&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" />
-  <img src="https://github-profile-trophy.vercel.app/?username=gustaeps2004&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="GitHub trophies" />
-</picture>
-
-</div>
 
 ---
 
